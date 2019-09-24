@@ -6,7 +6,7 @@ line
 line
 line
 8 line
-9 line updated
-10 line updated
+9 line formatPatch
+10 line formatPatch
 9 line formatPatch
 10 line formatPatch
